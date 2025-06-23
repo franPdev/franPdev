@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Franco Páez
+## ¡Hola! 👋 Soy Franco Paez
 
 🎓 Recientemente terminé la Tecnicatura en Desarrollo de Software.  
 💻 Me apasiona la programación web y estoy enfocado en seguir aprendiendo y creciendo.  
